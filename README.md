@@ -1,11 +1,35 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+👋 Hi there, I'm Pedro!
+Github Badge Linkedin Badge Instagram Badge
+
+👨‍💻 In this profile you will find many of my programming projects.
+
+🏢 I’m currently looking for a job.
+
+🎓 Finishing System Development - SENAI de Informática.
 
 
-# Pedro Dias
+Languages and Tools:
 
-## Opa 👋
-Sou um estudante de desenvolvimento de sistemas do SENAI :computer:
- <br/> :computer: &nbsp; Aprendendo: Banco de dados, Backend com C#, Frontend e React
- <br/> 💬  &nbsp; Cursando o Ensino Médio em ETEC
- <br/> 💬  &nbsp; Buscando aprender mais sobre programação e trabalhar na área no futuro
- <br/> 💬  &nbsp; Realizei a NLW com a Rocketseat
+Python
+
+HTML5
+
+CSS3
+
+JavaScript
+
+TypeScript
+
+React
+
+Node.js
+
+SQL
+
+NoSQL
+
+Git
+
+
+
+Pedro's GitHub stats
