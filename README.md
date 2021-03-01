@@ -22,6 +22,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/38151364/89709011-5718a500-d952-11ea-8b62-cbba56cbe1cd.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/38151364/109069510-12771000-76d0-11eb-9d29-51c7826848db.png" />
 
+<br />
+
 I also work with: 
   - React
   - React Native
