@@ -42,4 +42,4 @@ https://repl.it/@PedroDiasDev
 
 ---
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDias-Dev&show_icons=true&theme=radical)
-<img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruymon&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+<img align="right" alt="Pedro's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDias-Dev&layout=compact&theme=vue&show_icons=true&hide_border=true" />
