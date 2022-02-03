@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PedroDias-Dev)](https://github.com/PedroDias-Dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-dias-b5a9a61b0/)](https://www.linkedin.com/in/pedro-dias-b5a9a61b0/)
+[![Replit Badge](https://img.shields.io/badge/Repl.it-Code-brightgreen)](https://replit.com/@PedroDiasDev)
 
 - :man_technologist: In this profile you will find many of my programming projects.
 
