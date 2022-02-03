@@ -5,13 +5,13 @@
 
 - :man_technologist: In this profile you will find many of my programming projects.
 
-- :office: I’m currently looking for a job.
+- :office: Working for software companies in the stock market and in communication.
 
-- :mortar_board: Finishing System Development - SENAI de Informática.
+- :mortar_board: Software Dev Technical Degree in SENAI.
 
 - :books: My hobbies are music production, programming (of course) and gaming!
 
-### Languages and Tools:
+### Main Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38151364/89708860-1bc9a680-d951-11ea-8b0a-cf2d9d7c6edf.png" />
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/38151364/89708902-4ca9db80-d951-11ea-9a2f-e81e66fb4d0d.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,7 +26,6 @@
 <br />
 
 I also work with: 
-  - React
   - React Native
   - Firebase
   - C#
