@@ -30,8 +30,15 @@ I also work with:
   - Firebase
   - C#
   - SQL, NoSQL and sqlite3
+  - Discord.js
 
 <br />
+
+My main projects:
+  - [SampleFinder](https://github.com/PedroDias-Dev/SampleFinder)
+  - [Python VideoMaker](https://github.com/PedroDias-Dev/Video-Maker)
+  - [Easy JS Content Moderator](https://github.com/PedroDias-Dev/contentModerator.js)
+  - A bunch of discord bots 🤖
 <br />
 
 https://repl.it/@PedroDiasDev
