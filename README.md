@@ -10,6 +10,8 @@
 
 - :mortar_board: Software Dev Technical Degree in SENAI.
 
+- :mortar_board: Currently graduating in Software Development and Analysis in IFSP.
+
 - :books: My hobbies are music production, programming (of course) and gaming!
 
 ### Main Languages and Tools:
