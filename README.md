@@ -2,15 +2,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PedroDias-Dev)](https://github.com/PedroDias-Dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-dias-b5a9a61b0/)](https://www.linkedin.com/in/pedro-dias-b5a9a61b0/)
-[![Replit Badge](https://img.shields.io/badge/Repl.it-Code-brightgreen)](https://replit.com/@PedroDiasDev)
 
-- :man_technologist: In this profile you will find many of my programming projects.
-
-- :office: Working for software companies in the stock market and in communication.
+- :office: Experience working with software companies across diverse sectors, including stock market platforms, live events, communication tools and artificial intelligence..
 
 - :mortar_board: Software Dev Technical Degree in SENAI.
 
-- :mortar_board: Currently graduating in Software Development and Analysis in IFSP.
+- :mortar_board: Graduated in Software Development and Analysis in IFSP.
 
 - :books: My hobbies are music production, programming (of course) and gaming!
 
@@ -32,23 +29,4 @@ I also work with:
   - React Native
   - Firebase
   - C#
-  - SQL, NoSQL and sqlite3
-  - Discord.js
-
-<br />
-
-My main projects:
-  - [SampleFinder](https://github.com/PedroDias-Dev/SampleFinder)
-  - [Python VideoMaker](https://github.com/PedroDias-Dev/Video-Maker)
-  - [Easy JS Content Moderator](https://github.com/PedroDias-Dev/contentModerator.js)
-  - A bunch of discord bots 🤖
-<br />
-
-https://repl.it/@PedroDiasDev
-
-<br />
-<br />
-
----
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDias-Dev&show_icons=true&theme=radical)
-<img align="right" alt="Pedro's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDias-Dev&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+  - Flutter
